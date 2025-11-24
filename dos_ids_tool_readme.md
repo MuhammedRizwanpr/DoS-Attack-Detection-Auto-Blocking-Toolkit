@@ -112,7 +112,15 @@ Open it to see the attack summary.
 
 Replace the image with your final screenshot:
 
-![Sample Report](sample_report.png)
+# HTTP REQUEST TEST TO SERVER
+![Sample Report](screenshot/http_request_test.png)
+# IDS START AND 50 HTTP REQUEST (DOS) SEND TO SERVER
+![Sample Report](screenshot/ids_start_and_50reques_send.png)
+# BLOCK THE IP OF SOURCE OF HTTPS REQUEST BY USING FAIL2BAN 
+![Sample Report](screenshot/block_ip.png)
+# UNBLOCK THE IP 
+![Sample Report](screenshot/unblock_ip.png)
+
 
 ---
 
@@ -148,5 +156,6 @@ Want to improve it? Feel free to send a pull request.
 
 
 ## 📷 Final Output Screenshot
-*(Add your running-tool screenshot here)*
-
+# VISUALIZE THE DOS TRAFFIC 
+![Sample Report](screenshot/visual.png)
+![Sample Report](screenshot/visula1.png)
