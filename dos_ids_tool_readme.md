@@ -157,5 +157,5 @@ Want to improve it? Feel free to send a pull request.
 
 ## 📷 Final Output Screenshot
 # VISUALIZE THE DOS TRAFFIC 
-![Sample Report](screenshot/visualizw.png)
+![Sample Report](screenshot/visualize.png)
 ![Sample Report](screenshot/visual1.png)
